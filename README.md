@@ -39,7 +39,7 @@ Passionate full-stack developer leveraging cutting-edge technologies and AI to b
 - Continuous Integration/Continuous Deployment (CI/CD)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvDabhi1&show_icons=true&theme=radical)
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-dabhi-11371924b/)
